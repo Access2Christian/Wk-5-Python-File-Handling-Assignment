@@ -1,0 +1,6 @@
+This is the first line of text.
+Here's the second line with a number: 42
+Finally, the third line is here.
+Appending a fourth line.
+Here's a fifth line with a different message.
+And a sixth line to wrap things up.
